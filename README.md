@@ -1,0 +1,1 @@
+This is a Rotor Machine used for encryption and decryption. Whenever we turn to a number, it provides the corresponding letter for decryption. It can also be used in the reverse direction for encryption. Rotors.ini is our dictionary, we will encrypt and decrypt our code base on this
